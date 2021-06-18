@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanmauriciodesales
-- 👀 I’m interested in Font-end
+- 👀 I’m interested in Front-end
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on front-end development
+- 💞️ I’m looking to collaborate on Front-end development
 - 📫 How to reach me email:juanmauriciodesales@gmail.com
 
 <!---
